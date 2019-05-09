@@ -1,4 +1,4 @@
-#Rock, Paper, Scissors Game
+# Rock, Paper, Scissors Game
 
 Rock, paper, scissors simulator where you can play against the computer
 
